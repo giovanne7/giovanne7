@@ -17,7 +17,7 @@ Me chamo Giovanne Leite 👺🐱‍👤
 
 💼 Confira meus projetos e contribuições abaixo! Estou sempre aberto a colaborações e novas oportunidades.
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=giovanne7&layout=compact&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=giovanne7&layout=compact&theme=dark)
 
 
 
