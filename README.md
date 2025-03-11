@@ -18,3 +18,4 @@ Me chamo Giovanne Leite 👺🐱‍👤
 💼 Confira meus projetos e contribuições abaixo! Estou sempre aberto a colaborações e novas oportunidades.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GiovanneLeite&show_icons=true&theme=radical)
+
